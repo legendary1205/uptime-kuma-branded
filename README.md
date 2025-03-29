@@ -63,7 +63,7 @@ Requirements:
 # Update your npm to the latest version
 npm install npm -g
 
-git clone https://github.com/louislam/uptime-kuma.git
+git clone https://github.com/legendary1205/uptime-kuma-branded.git
 cd uptime-kuma
 npm run setup
 
