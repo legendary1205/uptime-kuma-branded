@@ -1,0 +1,14 @@
+[client]
+remote_addr = "185.124.175.65:1000"
+transport = "tcp"
+token = "sajad" 
+connection_pool = 128
+aggressive_pool = false
+keepalive_period = 10
+dial_timeout = 10
+nodelay = false
+retry_interval = 3
+sniffer = false
+web_port = 2001 
+sniffer_log = "/root/backhaul.json"
+log_level = "info"
